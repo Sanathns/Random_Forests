@@ -1,2 +1,2 @@
 # Random_Forests
-This repository contains my implementation of the Random Forest algorithm as part of my data science course assignment. 
+This repository contains my implementation of the Random Forest algorithm as part of my data science course assignment.  The Random Forest model is a powerful ensemble learning technique used for classification and regression tasks. In this project, I have utilized Python and popular data science libraries like scikit-learn to build and evaluate the Random Forest model on a specific dataset. The code and accompanying documentation showcase my understanding of the algorithm and its application in solving real-world problems
